@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "algorithm": "c",
+        "cstdio": "c",
+        "type_traits": "c",
+        "*.tcc": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "memory": "c",
+        "optional": "c",
+        "system_error": "c",
+        "string.h": "c"
+    }
+}
